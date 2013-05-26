@@ -151,7 +151,7 @@
 <text x="19.05" y="50.165" size="1.778" layer="1" font="vector" ratio="15">TOPC</text>
 <text x="25.4" y="50.165" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">BOTC</text>
 <text x="11.43" y="24.13" size="1.778" layer="21" font="vector" ratio="15">Yamaha Flasher</text>
-<text x="40.64" y="35.56" size="1.778" layer="21" font="vector" ratio="15">(C) 2012
+<text x="40.64" y="35.56" size="1.778" layer="21" font="vector" ratio="15">(C) 2013
 R-E M</text>
 </plain>
 <libraries>

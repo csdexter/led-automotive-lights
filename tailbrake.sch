@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
@@ -10631,7 +10631,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="LED3" library="led" deviceset="LED" device="5MM"/>
 <part name="LED4" library="led" deviceset="LED" device="5MM"/>
 <part name="Q1" library="transistor-neu-to92" deviceset="*-NPN-" device="TO92-EBC" technology="2N2222" value="2N2222">
-<variant name="Simple" populate="no" technology=""/>
+<variant name="Simple" populate="no"/>
 </part>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="R1" library="SparkFun-Sensors" deviceset="PHOTOCELL" device="PTH">
@@ -10660,10 +10660,10 @@ DIN A4, landscape with location and doc. field</description>
 <part name="U6" library="radu-collected" deviceset="CL2*" device="N3"/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="L"/>
 <part name="Q2" library="transistor-neu-to92" deviceset="*-NPN-" device="TO92-EBC" technology="2N2222" value="2N2222">
-<variant name="Simple" populate="no" technology=""/>
+<variant name="Simple" populate="no"/>
 </part>
 <part name="Q3" library="transistor-neu-to92" deviceset="*-NPN-" device="TO92-EBC" technology="2N2222" value="2N2222">
-<variant name="Simple" populate="no" technology=""/>
+<variant name="Simple" populate="no"/>
 </part>
 <part name="J1" library="pinhead" deviceset="PINHD-1X3" device="/90" value="POWER"/>
 <part name="LED16" library="led" deviceset="LED" device="5MM"/>
@@ -10674,7 +10674,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="U7" library="radu-collected" deviceset="CL2*" device="N3"/>
 <part name="U8" library="radu-collected" deviceset="CL2*" device="N3"/>
 <part name="Q4" library="transistor-neu-to92" deviceset="*-NPN-" device="TO92-EBC" technology="2N2222" value="2N2222">
-<variant name="Simple" populate="no" technology=""/>
+<variant name="Simple" populate="no"/>
 </part>
 <part name="LED21" library="led" deviceset="LED" device="5MM"/>
 <part name="LED22" library="led" deviceset="LED" device="5MM"/>
